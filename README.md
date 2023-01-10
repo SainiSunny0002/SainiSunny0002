@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SainiSunny0002
 - 👀 I’m interested in ...Spring Boot with Angular (Full Stack Developer)
-- 🌱 I’m currently learning ...AWS
+- 🌱 I’m AWS Certified Developer - Associate
 - 💞️ I’m looking to collaborate on ...Spring Boot and Angular projects
 - 📫 How to reach me ...with my email id : s.suny0002@gmail.com
 
